@@ -1,0 +1,7 @@
+|        Name|   Score|   Grade|
+--------------------------------
+|      Joseph|      89|       B|
+|        John|      90|       A|
+|    TingTing|      96|       A|
+|         Jon|      74|       C|
+|       Tyler|      85|       B|
